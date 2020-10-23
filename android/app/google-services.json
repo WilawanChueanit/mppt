@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93459840369",
+    "firebase_url": "https://mppt-esp32-bf0e1.firebaseio.com",
+    "project_id": "mppt-esp32-bf0e1",
+    "storage_bucket": "mppt-esp32-bf0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93459840369:android:2be93e7882607ff25fcad0",
+        "android_client_info": {
+          "package_name": "com.example.mppt_esp32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93459840369-58o7mtpfkebrlm2g6odn2urghqi90fvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvO7HCSdzUp8WmGOK85rCnFkRYTdZTGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93459840369-58o7mtpfkebrlm2g6odn2urghqi90fvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
